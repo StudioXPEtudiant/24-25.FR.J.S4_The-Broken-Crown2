@@ -132,7 +132,6 @@ GameObject:
   - component: {fileID: 572691185}
   - component: {fileID: 572691184}
   - component: {fileID: 572691183}
-  - component: {fileID: 572691182}
   - component: {fileID: 572691188}
   m_Layer: 0
   m_Name: Capsule
@@ -141,23 +140,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &572691182
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 572691181}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 26d1a605c3f0d9a4ba98b7d8564219a3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  cc: {fileID: 572691183}
-  moveSpeed: 5
-  jumpForce: 7
-  gravity: 10
-  moveDir: {x: 0, y: 0, z: 0}
 --- !u!143 &572691183
 CharacterController:
   m_ObjectHideFlags: 0
@@ -284,9 +266,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 572691181}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 650a1cc9ab5ec5e4ebd9fa8e87455e9f, type: 3}
+  m_Script: {fileID: 11500000, guid: f0ab26af12217a640a857e74c86b002d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cc: {fileID: 0}
+  moveSpeed: 5
+  jumpForce: 6
+  gravity: 5
 --- !u!1 &875053028
 GameObject:
   m_ObjectHideFlags: 0
