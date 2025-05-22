@@ -93,8 +93,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 232
-    height: 685
+    width: 185.6
+    height: 532
   m_MinSize: {x: 201, y: 226}
   m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 15}
@@ -118,9 +118,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 685
-    width: 1652
-    height: 248
+    y: 532
+    width: 1321.6
+    height: 192.79999
   m_MinSize: {x: 231, y: 276}
   m_MaxSize: {x: 10001, y: 10026}
   m_ActualView: {fileID: 13}
@@ -246,8 +246,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1652
-    height: 685
+    width: 1321.6
+    height: 532
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
@@ -270,8 +270,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 185.6
     y: 0
-    width: 1420
-    height: 685
+    width: 1136
+    height: 532
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 16}
@@ -339,9 +339,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 709
-    width: 1651
-    height: 222
+    y: 556
+    width: 1320.6
+    height: 166.79999
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -364,7 +364,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Realistic Tree/Prefabs/Foret
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -384,7 +384,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 143}
     m_SelectedIDs: 4cd10000
     m_LastClickedID: 53580
-    m_ExpandedIDs: 00000000a8cd0000
+    m_ExpandedIDs: 0000000092a7000094a7000096a70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -413,7 +413,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a8cd0000
+    m_ExpandedIDs: 0000000092a7000094a7000096a70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -543,8 +543,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 24
-    width: 231
-    height: 659
+    width: 184.6
+    height: 506
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -558,7 +558,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 2464}
+      scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: 468effff4e8effff22fbffff
@@ -609,8 +609,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 186.6
     y: 24
-    width: 1418
-    height: 659
+    width: 1134
+    height: 506
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1081,7 +1081,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 9500, y: 24.99542, z: -6500}
+    m_Target: {x: 600.3342, y: -145.37964, z: 84.72797}
     speed: 2
     m_Value: {x: 9500, y: 24.99542, z: -6500}
   m_RenderMode: 0
@@ -1129,11 +1129,11 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.2333303, y: 0.61455554, z: -0.19735655, w: 0.7275344}
+    m_Target: {x: -0.001886851, y: -0.99498457, z: 0.10124179, w: -0.013859152}
     speed: 2
     m_Value: {x: 0.2333303, y: 0.61455554, z: -0.19735655, w: 0.7275344}
   m_Size:
-    m_Target: 707.5484
+    m_Target: 386.05356
     speed: 2
     m_Value: 707.5484
   m_Ortho:
