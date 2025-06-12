@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 1937652346180598565}
   - component: {fileID: 5118814986024609835}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -152,8 +152,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cc: {fileID: 1937652346180598565}
   moveSpeed: 5
-  jumpForce: 6
-  gravity: 5
+  jumpForce: 4
+  gravity: 10
   cameraTransform: {fileID: 5779560323564344675}
   mouseSensitivity: 5
 --- !u!1 &8499221600729432651
